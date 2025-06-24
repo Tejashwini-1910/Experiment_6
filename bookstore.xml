@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="bookstore.xsd">
+    <book category="Fiction">
+        <title lang="en">The Alchemist</title>
+        <author>Paulo Coelho</author>
+        <year>1988</year>
+        <price>15.99</price>
+    </book>
+    <book category="Science">
+        <title lang="en">A Brief History of Time</title>
+        <author>Stephen Hawking</author>
+        <year>1988</year>
+        <price>20.00</price>
+    </book>
+</bookstore>
+
+<bookstore>
+    <book category="Fiction">
+        <title lang="en">The Alchemist</title>
+        <author>Paulo Coelho</author>
+        <year>1988</year>
+        <price>15.99</price>
+    </book>
+    <book category="Science">
+        <title lang="en">A Brief History of Time</title>
+        <author>Stephen Hawking</author>
+        <year>1988</year>
+        <price>20.00</price>
+    </book>
+</bookstore>
